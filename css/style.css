@@ -28,12 +28,25 @@
   list-style-type: none;
 }
 
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
 a:hover {
   color: darkred;
 }
 
+.btn:hover {
+  background-color: red;
+}
+.btn a:hover {
+  /* background-color: red; */
+  color: #fff;
+}
+
 /* Colors */
-.facebook {
+.icons .facebook {
   color: #4267B2;
 }
 .icons .facebook:hover {
@@ -258,7 +271,11 @@ dl dd {
 }
 
 .info li:hover {
-  color: #000;
+  color: darkred;
+}
+
+.info li a:visited {
+  color: inherit;
 }
 
 .quotes {
@@ -300,7 +317,7 @@ dl dd {
 /* Main Section */
 
 .title h1 {
-  font-size: 30px;
+  font-size: 35px;
   font-weight: lighter;
   height: 40px;
 }
@@ -319,6 +336,7 @@ dl dd {
   font-size: 13.5px;
   margin-top: 15px;
   margin-bottom: 30px;
+  color: #888585;
 }
 
 .icons li {
@@ -349,7 +367,7 @@ i {
 .who h4, .early-life h4, .co-creating h4, .marvel-lineup h4, .rise h4, .health h4 {
   font-size: 18px;
   margin-bottom: 15px;
-  word-spacing: .2rem;
+  word-spacing: .08rem;
 }
 
 .co-creating{
@@ -440,7 +458,5 @@ margin: 0 10px;
   text-transform: capitalize;
 }
 
-.btn:hover {
-  background-color: red;
-}
+
 
