@@ -6,7 +6,7 @@
 </p>
 &emsp;
 <p align="center">
-<img src="https://github.com/DashlinS/biography/blob/master/images/gifs/website.png" width="900">
+<img src="https://github.com/DashlinS/Biography/blob/master/images/gifs/Website.png" width="900">
 </p>
 
 ## How Its Made 
