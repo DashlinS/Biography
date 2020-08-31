@@ -44,3 +44,11 @@ The CSS was made using `floats`. The fonts used were not exact, but they were cl
 </p> 
 
 # What I Learned
+
+I learned how to adjust and use icons displayed on my page. Font Awesome is a great website and tool! Also being straightforward and easy to use.
+
+Fixed elements and the difficulties that could come with them. I figured out the fixed portion of this website after some trial and error. 
+
+### My other projects
+
+* [BBC Website](https://github.com/DashlinS/BBCWebsite)
