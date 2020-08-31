@@ -36,11 +36,14 @@ The CSS was made using `floats`. The fonts used were not exact, but they were cl
 ### More Hover Effects
 
 <p align="center">
-<img src="" width="800">
+<img src="https://github.com/DashlinS/Biography/blob/master/images/gifs/nav.gif" width="800">
 </p>
 
 <p align="center">
- 
+<img src="https://github.com/DashlinS/Biography/blob/master/images/gifs/icon.gif" width="800">
+</p>
+
+<p align="center">
 </p> 
 
 # What I Learned
