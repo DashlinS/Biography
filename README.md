@@ -34,7 +34,7 @@ The CSS was made using `floats`. The fonts used were not exact, but they were cl
 <p align="center">                                                                                                          
 
 
-### More Hover Effects
+### Navigation
 
 <p align="center">
 <img src="https://github.com/DashlinS/Biography/blob/master/images/gifs/nav.gif" width="800">
