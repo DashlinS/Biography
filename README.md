@@ -36,7 +36,7 @@ The CSS was made using `floats`. The fonts used were not exact, but they were cl
 ### More Hover Effects
 
 <p align="center">
-<img src="https://github.com/DashlinS/BBCWebsite/blob/master/images/gifs/mainsection.gif" width="800">
+<img src="" width="800">
 </p>
 
 <p align="center">
