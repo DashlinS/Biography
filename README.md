@@ -1,7 +1,7 @@
 # &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Biography.com
 &emsp;
 <p align="center">
-  The challenge was to the best of my current ability, again using floats, to recreate the website Biography.com and the history on Stan "the man" Lee. Also as a tribute to the legend himself! Once again
+  The challenge was to the best of my current ability, using floats, to recreate the website Biography.com and the history on Stan "the man" Lee. Also as a tribute to the legend himself! Once again
   the goal is to learn as much as I can from the these challenges and record progress! Will continue to update as I learn new tools and techniques. 
 </p>
 &emsp;
