@@ -49,6 +49,6 @@ I learned how to adjust and use icons displayed on my page. Font Awesome is a gr
 
 Fixed elements and the difficulties that could come with them. I figured out the fixed portion of this website after some trial and error. 
 
-### My other projects
+### My other Html & CSS projects 
 
 * [BBC Website](https://github.com/DashlinS/BBCWebsite)
