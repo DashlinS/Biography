@@ -27,7 +27,9 @@ The CSS was made using `floats`. The fonts used were not exact, but they were cl
 ### Icons
 
 <p align="center">
-<img src="" height="37">
+<img src="https://github.com/DashlinS/Biography/blob/master/images/gifs/icon.gif" width="400">
+</p>
+
 </p>   
 
 <p align="center">                                                                                                          
@@ -37,10 +39,6 @@ The CSS was made using `floats`. The fonts used were not exact, but they were cl
 
 <p align="center">
 <img src="https://github.com/DashlinS/Biography/blob/master/images/gifs/nav.gif" width="800">
-</p>
-
-<p align="center">
-<img src="https://github.com/DashlinS/Biography/blob/master/images/gifs/icon.gif" width="800">
 </p>
 
 <p align="center">
