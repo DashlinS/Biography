@@ -156,8 +156,6 @@ a:hover {
   left: 41.3%;
   top: 24%;
 } 
-
-/*  */
 .list-nav {
   background-color: #000;
   width: 100%;
@@ -401,7 +399,7 @@ margin: 0 10px;
 }
 
 .block1 {
-  background: url('/Biography/images/barack-obama-12782369-1-402.jpg');
+  background: url('../images/barack-obama-12782369-1-402.jpg');
   background-size:100%;
   background-repeat: no-repeat;
   width: 220px;
@@ -416,19 +414,16 @@ margin: 0 10px;
   left: 10%;
   font-size: 17px;
 }
-
-
- .block1 p, .block2 p, .block3 p {
+.block1 p, .block2 p, .block3 p {
   color: #fff;
   position: absolute;
   bottom: 10%;
   left: 10%;
   font-size: 13px;
   font-weight: bold;
- }
-
+}
 .block2 {
-  background: url('/Biography/images/michael-jordan.jpg');
+  background: url('../images/michael-jordan.jpg');
   background-size:100%;
   background-repeat: no-repeat;
   width:220px;
@@ -437,7 +432,7 @@ margin: 0 10px;
   position: relative;
 }
 .block3 {
-  background: url('/Biography/images/martin-luther-king-jr-9365086-2-402.jpg');
+  background: url('../images/martin-luther-king-jr-9365086-2-402.jpg');
   background-size:100%;
   background-repeat: no-repeat;
   width:220px;
@@ -457,6 +452,3 @@ margin: 0 10px;
   line-height: 1em;
   text-transform: capitalize;
 }
-
-
-
