@@ -748,11 +748,11 @@ margin: 0 10px;
   .logo img{
     width: 460px;
     position: absolute;
-    left: 37%;
+    left: 30%;
     top: 24%;
   }  
   .list-nav {
-    padding-left: 28%;
+    padding-left: 22%;
   }
   aside.sidebar {
     float: left;
@@ -760,5 +760,8 @@ margin: 0 10px;
     height: 300vh;
     overflow: hidden;
     font-family: sans-serif;
+    }
+    .ad2 {
+      display: none;
     }
 }
