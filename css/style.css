@@ -565,11 +565,11 @@ margin: 0 10px;
     margin: 20px;
   }
   .picture img {
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
   }
   .facts, .info, .quotes  {
-    width: 200px;
+    width: 280px;
   }
   .info li{
     font-size: 10px;
@@ -577,6 +577,7 @@ margin: 0 10px;
   .quotes blockquote {
     font-size: .9rem
   }
+  
   .block1, .block2, .block3{
     width: 90%;
     height: 350px;
@@ -622,6 +623,19 @@ margin: 0 10px;
   aside.sidebar {
     margin: 20px;
   }
+  .picture img {
+    width: 300px;
+    height: 300px;
+  }
+  .facts, .info, .quotes  {
+    width: 280px;
+  }
+  .info li{
+    font-size: 10px;
+  }
+  .quotes blockquote {
+    font-size: .9rem
+  }
   .block1, .block2, .block3{
     width: 140px;
     height: 160px;
@@ -639,7 +653,7 @@ margin: 0 10px;
     margin: 0 auto;
     margin-left: 50px;
   }
-  .btn {
+  .btn, .ad, .ad2 {
     display: none;
   }
   .list-nav {
@@ -651,6 +665,23 @@ margin: 0 10px;
     top: 30%;
     left: 31%;
   }
+  aside.sidebar {
+    margin: 20px;
+  }
+  .picture img {
+    width: 300px;
+    height: 300px;
+  }
+  .facts, .info, .quotes  {
+    width: 280px;
+  }
+  .info li{
+    font-size: 10px;
+  }
+  .quotes blockquote {
+    font-size: .9rem
+  }
+
   .block1, .block2, .block3{
     width: 180px;
     height: 190px;
