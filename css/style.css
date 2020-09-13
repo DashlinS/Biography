@@ -122,7 +122,7 @@ a:hover {
 .main-nav li {
   float: left;
   margin-top: 8px;
-  color: white;
+  color: #fff;
 }
 .main-nav li:hover, .main-nav p:hover {
   color: #b4b4b4;
@@ -151,7 +151,7 @@ a:hover {
 }
 
 .logo img{
-  width: 18%;
+  width: 460px;
   position: absolute;
   left: 41.3%;
   top: 24%;
@@ -311,9 +311,7 @@ dl dd {
   overflow: hidden;
 }
 /* Aside End */
-
 /* Main Section */
-
 .title h1 {
   font-size: 35px;
   font-weight: lighter;
@@ -451,4 +449,251 @@ margin: 0 10px;
   margin: 19px;
   line-height: 1em;
   text-transform: capitalize;
+}
+
+@media only screen and (max-width: 734px) {
+  .container {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    word-wrap: break-word;
+    margin-left: 20px;
+  }
+  .list-nav, .content, .icon-list, .side-options, .facts, .ad, .ad2, .info, .quotes, aside{
+    display: none;
+  }
+   .wrapper {
+    position: static;
+    height: 100px;
+    background-color: rgba(243, 243, 243);
+  }
+  .fixed-nav{
+    height: 50px;
+  }
+
+  .main-nav {
+    height: 50px;
+}
+  .logo img{
+    width: 35%;
+    top: 5%;
+    left: 36%;
+  }
+
+  .picture-stan {
+    display: block;
+    height: 200px;
+    width: 200px;
+    background: url('../images/stan-lee-21101093-1-402.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 200px;
+    margin-bottom: 10px;
+    margin: 5px auto;
+  }
+  .title h1 {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .title p, .updated {
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 10px;
+    border-bottom: none;
+  }
+  .updated {
+    font-size: 13px;
+    text-align: center;
+    margin-top: 0px;
+  }
+  .icons ul {
+    margin: 20px 0;
+    margin-left: 23%;
+  }
+  .mini-info {
+    font-size: 17px;
+    line-height: 1.4rem;
+    overflow: hidden;
+  }
+
+  .block1, .block2, .block3{
+    width: 400px;
+    height: 200px;
+    /* width: 400px; */
+    margin: 0;
+    padding: 0;
+  }
+}
+  @media (min-width: 735px) and (max-width: 900px){
+  .container {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    word-wrap: break-word;
+    /* margin-left: 20px; */
+  }
+  .ad, .ad2 {
+    display: none;
+  }
+  .nav-rock, .envelope{
+    display: none;
+  }
+  .list-nav {
+    padding-left: 5%;
+  }
+  .main-nav {
+    height: 150px;
+  }
+  .logo img{
+    width: 300px;
+    top: 30%;
+    left: 28%;
+  }
+  .main-nav .monroe {
+    width: 55px;
+    height: 55px;
+  }
+  .content p {
+    font-size: .65rem;
+  }
+  .large-icon i {
+    font-size: 35px; 
+    padding: 8px 13px;
+  }
+  aside.sidebar {
+    margin: 20px;
+  }
+  .picture img {
+    width: 200px;
+    height: 200px;
+  }
+  .facts, .info, .quotes  {
+    width: 200px;
+  }
+  .info li{
+    font-size: 10px;
+  }
+  .quotes blockquote {
+    font-size: .9rem
+  }
+  .block1, .block2, .block3{
+    width: 90%;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+@media (min-width: 901px) and (max-width: 1100px) {
+  .container {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    word-wrap: break-word;
+  }
+  .ad, .ad2, .btn {
+    display: none;
+  }
+  .nav-rock, .envelope{
+    display: none;
+  }
+  .list-nav {
+    padding-left: 15%;
+  }
+  .main-nav {
+    height: 150px;
+  }
+  .logo img{
+    width: 300px;
+    top: 30%;
+    left: 32%;
+  }
+  .main-nav .monroe {
+    width: 55px;
+    height: 55px;
+  }
+  .content p {
+    font-size: .65rem;
+  }
+  .large-icon i {
+    font-size: 35px; 
+    padding:8px 13px;
+  }
+  aside.sidebar {
+    margin: 20px;
+  }
+  .block1, .block2, .block3{
+    width: 140px;
+    height: 160px;
+    display: inline-block;
+  } 
+  .block1 h3, .block2 h3, .block3 h3{
+    font-size: .75rem;
+    text-align: center;
+  }
+}
+
+@media (min-width: 1101px) and (max-width: 1300px) {
+  .container {
+    width: 1000px;
+    margin: 0 auto;
+    margin-left: 50px;
+  }
+  .btn {
+    display: none;
+  }
+  .list-nav {
+    padding-left: 15%;
+  }
+
+  .logo img{
+    width: 400px;
+    top: 30%;
+    left: 31%;
+  }
+  .block1, .block2, .block3{
+    width: 180px;
+    height: 190px;
+    display: inline-block;
+  } 
+  .block1 h3, .block2 h3, .block3 h3{
+    font-size: .75rem;
+    text-align: center;
+  }
+}
+@media (min-width: 1301px) and (max-width: 1500px) {
+  .container {
+    width: 1000px;
+    margin: 0 auto;
+    margin-left: 50px;
+  }
+  .btn {
+    display: none;
+  }
+  .list-nav {
+    padding-left: 20%;
+  }
+  .logo img{
+    width: 400px;
+    top: 30%;
+    left: 31%;
+  }
+  .block1, .block2, .block3{
+    width: 180px;
+    height: 190px;
+    display: inline-block;
+  } 
+  .block1 h3, .block2 h3, .block3 h3{
+    font-size: .75rem;
+    text-align: center;
+  }
+}
+
+@media (min-width: 1501px) {
+  .logo img{
+  width: 460px;
+  position: absolute;
+  left: 41.3%;
+  top: 24%;
+}  
 }
