@@ -204,7 +204,7 @@ nav li {
 aside.sidebar {
  float: left;
  margin-right: 20px;
- height: 200vh;
+ height: 300vh;
  overflow: hidden;
  font-family: sans-serif;
 }
@@ -215,12 +215,11 @@ aside.sidebar {
   margin-bottom: 10px;
 }
 /* side ad 1 */
-.ad {
+.ad img{
   width: 300px;
-  height: 600px;
+  height: 550px;
   margin-bottom: 25px;
   margin-top: 5px;
-  overflow: hidden;
 }
 
 /* facts */
@@ -304,11 +303,10 @@ dl dd {
   border-bottom: 2px solid #d3d3d3;
 }
 /* side ad 2 */
-.ad2 {
+.ad2 img{
   width: 300px;
-  height: 600px;
+  height: 550px;
   margin-bottom: 25px;
-  overflow: hidden;
 }
 /* Aside End */
 /* Main Section */
@@ -565,8 +563,8 @@ margin: 0 10px;
     margin: 20px;
   }
   .picture img {
-    width: 300px;
-    height: 300px;
+    width: 280px;
+    height: 280px;
   }
   .facts, .info, .quotes  {
     width: 280px;
@@ -623,9 +621,13 @@ margin: 0 10px;
   aside.sidebar {
     margin: 20px;
   }
+  .ad img{
+    width: 100px;
+    height: 100px;
+  }
   .picture img {
-    width: 300px;
-    height: 300px;
+    width: 280px;
+    height: 280px;
   }
   .facts, .info, .quotes  {
     width: 280px;
@@ -659,7 +661,6 @@ margin: 0 10px;
   .list-nav {
     padding-left: 15%;
   }
-
   .logo img{
     width: 400px;
     top: 30%;
@@ -669,8 +670,8 @@ margin: 0 10px;
     margin: 20px;
   }
   .picture img {
-    width: 300px;
-    height: 300px;
+    width: 280px;
+    height: 280px;
   }
   .facts, .info, .quotes  {
     width: 280px;
@@ -694,7 +695,7 @@ margin: 0 10px;
 }
 @media (min-width: 1301px) and (max-width: 1500px) {
   .container {
-    width: 1000px;
+    width: 1100px;
     margin: 0 auto;
     margin-left: 50px;
   }
@@ -709,6 +710,22 @@ margin: 0 10px;
     top: 30%;
     left: 31%;
   }
+  .picture img {
+    width: 280px;
+    height: 280px;
+  }
+  .ad img, .ad2 img {
+    width: 280px;
+  }
+  .facts, .info, .quotes  {
+    width: 280px;
+  }
+  .info li{
+    font-size: 12px;
+  }
+  .quotes blockquote {
+    font-size: 1rem;
+  }
   .block1, .block2, .block3{
     width: 180px;
     height: 190px;
@@ -718,13 +735,30 @@ margin: 0 10px;
     font-size: .75rem;
     text-align: center;
   }
+  aside.sidebar {
+    float: left;
+    margin-right: 20px;
+    height: 300vh;
+    overflow: hidden;
+    font-family: sans-serif;
+    }
 }
 
-@media (min-width: 1501px) {
+@media (min-width: 1501px) and (max-width: 1700px){
   .logo img{
-  width: 460px;
-  position: absolute;
-  left: 41.3%;
-  top: 24%;
-}  
+    width: 460px;
+    position: absolute;
+    left: 37%;
+    top: 24%;
+  }  
+  .list-nav {
+    padding-left: 28%;
+  }
+  aside.sidebar {
+    float: left;
+    margin-right: 20px;
+    height: 300vh;
+    overflow: hidden;
+    font-family: sans-serif;
+    }
 }
