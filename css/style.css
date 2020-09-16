@@ -204,7 +204,7 @@ nav li {
 aside.sidebar {
  float: left;
  margin-right: 20px;
- height: 300vh;
+ height: 200vh;
  overflow: hidden;
  font-family: sans-serif;
 }
@@ -738,7 +738,7 @@ margin: 0 10px;
   aside.sidebar {
     float: left;
     margin-right: 20px;
-    height: 300vh;
+    height: 200vh;
     overflow: hidden;
     font-family: sans-serif;
     }
@@ -757,7 +757,7 @@ margin: 0 10px;
   aside.sidebar {
     float: left;
     margin-right: 20px;
-    height: 300vh;
+    height: 200vh;
     overflow: hidden;
     font-family: sans-serif;
     }
