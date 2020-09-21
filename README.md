@@ -11,7 +11,6 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Click Here to go to the website!](https://biographywebsite.netlify.app)
 
 
-
 ## How Its Made 
 
 **Languages used:** Html and CSS
