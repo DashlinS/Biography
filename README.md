@@ -5,7 +5,7 @@
 </p>
 &emsp;
 <p align="center">
-<img src="https://github.com/DashlinS/Biography/blob/master/images/gifs/Website.png" width="900">
+<img src="https://github.com/DashlinS/Biography/blob/master/images/gifs/Website.gif" width="900">
 </p>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Click Here to go to the website!](https://biographywebsite.netlify.app)
